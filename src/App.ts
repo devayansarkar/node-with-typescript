@@ -18,3 +18,5 @@ class App {
         this.express.use('/', router)
     }
 }
+
+export default new App().express
