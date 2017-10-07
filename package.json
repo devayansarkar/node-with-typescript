@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/devayansarkar/node-with-typescript/issues"
   },
-  "homepage": "https://github.com/devayansarkar/node-with-typescript#readme"
+  "homepage": "https://github.com/devayansarkar/node-with-typescript#readme",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
 }
