@@ -1,0 +1,19 @@
+{
+  "name": "node-with-typescript",
+  "version": "1.0.0",
+  "description": "Node.js application created with Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devayansarkar/node-with-typescript.git"
+  },
+  "author": "Devayan Sarkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devayansarkar/node-with-typescript/issues"
+  },
+  "homepage": "https://github.com/devayansarkar/node-with-typescript#readme"
+}
