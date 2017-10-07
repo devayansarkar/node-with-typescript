@@ -14,4 +14,5 @@ class App {
         this.express.use('/', router);
     }
 }
+exports.default = new App().express;
 //# sourceMappingURL=App.js.map
